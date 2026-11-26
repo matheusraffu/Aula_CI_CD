@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "MatheusMartinez_CI_CD",
+    "slug": "matheusmartinezcicd",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "owner": "matheusraffus-team",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.matheusmartinez.cicd"
+    },
+    "android": {
+      "package": "com.matheusmartinez.cicd"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dba91e8b-a599-448e-99b5-e5ffd7e73e6d"
+      }
+    }
+  }
+}
